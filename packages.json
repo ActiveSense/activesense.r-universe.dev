@@ -2,5 +2,9 @@
   {
     "package": "GENEAread",
     "url": "https://github.com/ActiveSense/GENEAread"
-  },
+    },
+  {
+    "package": "GENEAclassify",
+    "url": "https://github.com/ActiveSense/GENEAclassify"
+  }
 ]
